@@ -1,6 +1,10 @@
 Diese ist Master branch
+<<<<<<< HEAD
 
 222 befre merge
 
 
 main branch
+=======
+nach merge
+>>>>>>> develop
